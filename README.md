@@ -1,12 +1,17 @@
 # excel-projects
 smart devices sales analysis dashboard-- excel project 
- Proud to share that I have successfully completed the Advanced Excel Certification from I.T. Vedant! 🚀
+Proud to share that I have successfully completed the Advanced Excel Certification from I.T. Vedant! 🚀
 
 Through this course, I gained hands-on experience in advanced Excel tools and techniques that are essential for data analysis and business reporting.
 
 📚 Skills Learned:
-✅ Advanced Formulas & Functions✅ Pivot Tables & Pivot Charts✅ Data Cleaning & Data Validation✅ Dashboard Creation✅ Conditional Formatting
-✅ Data Visualization & Reporting✅ Excel Automation Basics
+✅ Advanced Formulas & Functions
+✅ Pivot Tables & Pivot Charts
+✅ Data Cleaning & Data Validation
+✅ Dashboard Creation
+✅ Conditional Formatting
+✅ Data Visualization & Reporting
+✅ Excel Automation Basics
 
 This learning journey helped me improve my analytical thinking and practical Excel skills for solving real-world business problems.
 
